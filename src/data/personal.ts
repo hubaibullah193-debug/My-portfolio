@@ -8,8 +8,8 @@ export const personal = {
   tagline: 'Building scalable web applications & digital growth strategies.',
   bio: 'I am a passionate full-stack web developer with expertise in modern JavaScript frameworks and digital marketing strategies. I combine technical excellence with strategic thinking to deliver impactful solutions.',
   email: 'hubaibullah193@gmail.com',
-  phone: '+92 347 0954691',
-  whatsapp: '+92 347 0954691',
+  phone: '+92 347 0954961',
+  whatsapp: '+92 347 0954961',
   location: 'Peshawar, Pakistan',
   profileImage: '/images/profile.jpg',
 } as const;

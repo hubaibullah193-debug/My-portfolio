@@ -21,8 +21,8 @@ export const contactInfo: ContactInfoItem[] = [
   {
     id: 'phone',
     label: 'Phone',
-    value: '+92 347 0954691',
-    href: 'tel:+923470954691',
+    value: '+92 347 0954961',
+    href: 'tel:+923470954961',
     icon: 'Phone',
   },
   {
@@ -41,9 +41,9 @@ export interface WhatsAppConfig {
 }
 
 export const whatsapp: WhatsAppConfig = {
-  phone: '+923470954691',
+  phone: '+923470954961',
   message: 'Hi Hubaib, I would like to discuss a project.',
-  url: 'https://wa.me/923470954691?text=Hi%20Hubaib%2C%20I%20would%20like%20to%20discuss%20a%20project.',
+  url: 'https://wa.me/923470954961?text=Hi%20Hubaib%2C%20I%20would%20like%20to%20discuss%20a%20project.',
 };
 
 export interface AvailabilityStatus {
