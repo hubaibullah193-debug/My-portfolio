@@ -60,7 +60,7 @@ export function About() {
                     fill
                     sizes="(max-width: 1024px) 100vw, 50vw"
                     priority
-                    className="object-cover"
+                    className="object-cover object-[center_18%] scale-[1.05]"
                   />
                 </div>
                 <div className="absolute -bottom-6 -right-6 w-48 h-48 bg-blue-500/10 rounded-full blur-3xl pointer-events-none" />
