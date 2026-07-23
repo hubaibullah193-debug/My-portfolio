@@ -11,7 +11,7 @@ export const siteConfig = {
   ogImage: 'https://hubaibullah.com/og-image.jpg',
   links: {
     github: 'https://github.com/hubaibullah',
-    facebook: 'https://facebook.com/hubaibullah',
+    facebook: 'https://www.facebook.com/share/1KNMo37dx7/',
     email: 'mailto:hubaibullah193@gmail.com',
   },
 } as const;

@@ -21,7 +21,7 @@ export const socialLinks: SocialLink[] = [
   {
     id: 'facebook',
     name: 'Facebook',
-    url: 'https://facebook.com/hubaibullah',
+    url: 'https://www.facebook.com/share/1KNMo37dx7/',
     icon: 'Facebook',
     label: 'Follow on Facebook',
   },
